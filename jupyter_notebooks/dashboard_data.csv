@@ -1,0 +1,300 @@
+age,anaemia,creatinine_phosphokinase,diabetes,ejection_fraction,high_blood_pressure,platelets,serum_creatinine,serum_sodium,sex,smoking,death_event,comorbidity_burden,dm_htn_interaction
+75,not anaemic,582,not diabetic,20,high blood pressure,265000.0,1.9,130,male,non-Smoker,died,1,0
+55,not anaemic,7861,not diabetic,38,normal blood pressure,263358.03,1.1,136,male,non-Smoker,died,0,0
+65,not anaemic,146,not diabetic,20,normal blood pressure,162000.0,1.3,129,male,smoker,died,1,0
+50,anaemic,111,not diabetic,20,normal blood pressure,210000.0,1.9,137,male,non-Smoker,died,1,0
+65,anaemic,160,diabetic,20,normal blood pressure,327000.0,2.7,116,female,non-Smoker,died,2,0
+90,anaemic,47,not diabetic,40,high blood pressure,204000.0,2.1,132,male,smoker,died,3,0
+75,anaemic,246,not diabetic,15,normal blood pressure,127000.0,1.2,137,male,non-Smoker,died,1,0
+60,anaemic,315,diabetic,60,normal blood pressure,454000.0,1.1,131,male,smoker,died,3,0
+65,not anaemic,157,not diabetic,65,normal blood pressure,263358.03,1.5,138,female,non-Smoker,died,0,0
+80,anaemic,123,not diabetic,35,high blood pressure,388000.0,9.4,133,male,smoker,died,3,0
+75,anaemic,81,not diabetic,38,high blood pressure,368000.0,4.0,131,male,smoker,died,3,0
+62,not anaemic,231,not diabetic,25,high blood pressure,253000.0,0.9,140,male,smoker,died,2,0
+45,anaemic,981,not diabetic,30,normal blood pressure,136000.0,1.1,137,male,non-Smoker,died,1,0
+50,anaemic,168,not diabetic,38,high blood pressure,276000.0,1.1,137,male,non-Smoker,died,2,0
+49,anaemic,80,not diabetic,30,high blood pressure,427000.0,1.0,138,female,non-Smoker,survived,2,0
+82,anaemic,379,not diabetic,50,normal blood pressure,47000.0,1.3,136,male,non-Smoker,died,1,0
+87,anaemic,149,not diabetic,38,normal blood pressure,262000.0,0.9,140,male,non-Smoker,died,1,0
+45,not anaemic,582,not diabetic,14,normal blood pressure,166000.0,0.8,127,male,non-Smoker,died,0,0
+70,anaemic,125,not diabetic,25,high blood pressure,237000.0,1.0,140,female,non-Smoker,died,2,0
+48,anaemic,582,diabetic,55,normal blood pressure,87000.0,1.9,121,female,non-Smoker,died,2,0
+65,anaemic,52,not diabetic,25,high blood pressure,276000.0,1.3,137,female,non-Smoker,survived,2,0
+65,anaemic,128,diabetic,30,high blood pressure,297000.0,1.6,136,female,non-Smoker,died,3,1
+68,anaemic,220,not diabetic,35,high blood pressure,289000.0,0.9,140,male,smoker,died,3,0
+53,not anaemic,63,diabetic,60,normal blood pressure,368000.0,0.8,135,male,non-Smoker,survived,1,0
+75,not anaemic,582,diabetic,30,high blood pressure,263358.03,1.83,134,female,non-Smoker,died,2,1
+80,not anaemic,148,diabetic,38,normal blood pressure,149000.0,1.9,144,male,smoker,died,2,0
+95,anaemic,112,not diabetic,40,high blood pressure,196000.0,1.0,138,female,non-Smoker,died,2,0
+70,not anaemic,122,diabetic,45,high blood pressure,284000.0,1.3,136,male,smoker,died,3,1
+58,anaemic,60,not diabetic,38,normal blood pressure,153000.0,5.8,134,male,non-Smoker,died,1,0
+82,not anaemic,70,diabetic,30,normal blood pressure,200000.0,1.2,132,male,smoker,died,2,0
+94,not anaemic,582,diabetic,38,high blood pressure,263358.03,1.83,134,male,non-Smoker,died,2,1
+85,not anaemic,23,not diabetic,45,normal blood pressure,360000.0,3.0,132,male,non-Smoker,died,0,0
+50,anaemic,249,diabetic,35,high blood pressure,319000.0,1.0,128,female,non-Smoker,died,3,1
+50,anaemic,159,diabetic,30,normal blood pressure,302000.0,1.2,138,female,non-Smoker,survived,2,0
+65,not anaemic,94,diabetic,50,high blood pressure,188000.0,1.0,140,male,non-Smoker,died,2,1
+69,not anaemic,582,diabetic,35,normal blood pressure,228000.0,3.5,134,male,non-Smoker,died,1,0
+90,anaemic,60,diabetic,50,normal blood pressure,226000.0,1.0,134,male,non-Smoker,died,2,0
+82,anaemic,855,diabetic,50,high blood pressure,321000.0,1.0,145,female,non-Smoker,died,3,1
+60,not anaemic,2656,diabetic,30,normal blood pressure,305000.0,2.3,137,male,non-Smoker,survived,1,0
+60,not anaemic,235,diabetic,38,normal blood pressure,329000.0,3.0,142,female,non-Smoker,died,1,0
+70,not anaemic,582,not diabetic,20,high blood pressure,263358.03,1.83,134,male,smoker,died,2,0
+50,not anaemic,124,diabetic,30,high blood pressure,153000.0,1.2,136,female,smoker,died,3,1
+70,not anaemic,571,diabetic,45,high blood pressure,185000.0,1.2,139,male,smoker,died,3,1
+72,not anaemic,127,diabetic,50,high blood pressure,218000.0,1.0,134,male,non-Smoker,survived,2,1
+60,anaemic,588,diabetic,60,normal blood pressure,194000.0,1.1,142,female,non-Smoker,died,2,0
+50,not anaemic,582,diabetic,38,normal blood pressure,310000.0,1.9,135,male,smoker,died,2,0
+51,not anaemic,1380,not diabetic,25,high blood pressure,271000.0,0.9,130,male,non-Smoker,died,1,0
+60,not anaemic,582,diabetic,38,high blood pressure,451000.0,0.6,138,male,smoker,died,3,1
+80,anaemic,553,not diabetic,20,high blood pressure,140000.0,4.4,133,male,non-Smoker,died,2,0
+57,anaemic,129,not diabetic,30,normal blood pressure,395000.0,1.0,140,female,non-Smoker,died,1,0
+68,anaemic,577,not diabetic,25,high blood pressure,166000.0,1.0,138,male,non-Smoker,died,2,0
+53,anaemic,91,not diabetic,20,high blood pressure,418000.0,1.4,139,female,non-Smoker,died,2,0
+60,not anaemic,3964,diabetic,62,normal blood pressure,263358.03,6.8,146,female,non-Smoker,died,1,0
+70,anaemic,69,diabetic,50,high blood pressure,351000.0,1.0,134,female,non-Smoker,died,3,1
+60,anaemic,260,diabetic,38,normal blood pressure,255000.0,2.2,132,female,smoker,died,3,0
+95,anaemic,371,not diabetic,30,normal blood pressure,461000.0,2.0,132,male,non-Smoker,died,1,0
+70,anaemic,75,not diabetic,35,normal blood pressure,223000.0,2.7,138,male,smoker,survived,2,0
+60,anaemic,607,not diabetic,40,normal blood pressure,216000.0,0.6,138,male,smoker,survived,2,0
+49,not anaemic,789,not diabetic,20,high blood pressure,319000.0,1.1,136,male,smoker,died,2,0
+72,not anaemic,364,diabetic,20,high blood pressure,254000.0,1.3,136,male,smoker,died,3,1
+45,not anaemic,7702,diabetic,25,high blood pressure,390000.0,1.0,139,male,non-Smoker,died,2,1
+50,not anaemic,318,not diabetic,40,high blood pressure,216000.0,2.3,131,female,non-Smoker,died,1,0
+55,not anaemic,109,not diabetic,35,normal blood pressure,254000.0,1.1,139,male,smoker,survived,1,0
+45,not anaemic,582,not diabetic,35,normal blood pressure,385000.0,1.0,145,male,non-Smoker,died,0,0
+45,not anaemic,582,not diabetic,80,normal blood pressure,263358.03,1.18,137,female,non-Smoker,survived,0,0
+60,not anaemic,68,not diabetic,20,normal blood pressure,119000.0,2.9,127,male,smoker,died,1,0
+42,anaemic,250,diabetic,15,normal blood pressure,213000.0,1.3,136,female,non-Smoker,died,2,0
+72,anaemic,110,not diabetic,25,normal blood pressure,274000.0,1.0,140,male,smoker,died,2,0
+70,not anaemic,161,not diabetic,25,normal blood pressure,244000.0,1.2,142,female,non-Smoker,died,0,0
+65,not anaemic,113,diabetic,25,normal blood pressure,497000.0,1.83,135,male,non-Smoker,died,1,0
+41,not anaemic,148,not diabetic,40,normal blood pressure,374000.0,0.8,140,male,smoker,survived,1,0
+58,not anaemic,582,diabetic,35,normal blood pressure,122000.0,0.9,139,male,smoker,survived,2,0
+85,not anaemic,5882,not diabetic,35,normal blood pressure,243000.0,1.0,132,male,smoker,died,1,0
+65,not anaemic,224,diabetic,50,normal blood pressure,149000.0,1.3,137,male,smoker,survived,2,0
+69,not anaemic,582,not diabetic,20,normal blood pressure,266000.0,1.2,134,male,smoker,died,1,0
+60,anaemic,47,not diabetic,20,normal blood pressure,204000.0,0.7,139,male,smoker,died,2,0
+70,not anaemic,92,not diabetic,60,high blood pressure,317000.0,0.8,140,female,smoker,survived,2,0
+42,not anaemic,102,diabetic,40,normal blood pressure,237000.0,1.2,140,male,non-Smoker,survived,1,0
+75,anaemic,203,diabetic,38,high blood pressure,283000.0,0.6,131,male,smoker,survived,4,1
+55,not anaemic,336,not diabetic,45,high blood pressure,324000.0,0.9,140,female,non-Smoker,survived,1,0
+70,not anaemic,69,not diabetic,40,normal blood pressure,293000.0,1.7,136,female,non-Smoker,survived,0,0
+67,not anaemic,582,not diabetic,50,normal blood pressure,263358.03,1.18,137,male,smoker,survived,1,0
+60,anaemic,76,diabetic,25,normal blood pressure,196000.0,2.5,132,female,non-Smoker,died,2,0
+79,anaemic,55,not diabetic,50,high blood pressure,172000.0,1.8,133,male,non-Smoker,survived,2,0
+59,anaemic,280,diabetic,25,high blood pressure,302000.0,1.0,141,female,non-Smoker,died,3,1
+51,not anaemic,78,not diabetic,50,normal blood pressure,406000.0,0.7,140,male,non-Smoker,survived,0,0
+55,not anaemic,47,not diabetic,35,high blood pressure,173000.0,1.1,137,male,non-Smoker,survived,1,0
+65,anaemic,68,diabetic,60,high blood pressure,304000.0,0.8,140,male,non-Smoker,survived,3,1
+44,not anaemic,84,diabetic,40,high blood pressure,235000.0,0.7,139,male,non-Smoker,survived,2,1
+57,anaemic,115,not diabetic,25,high blood pressure,181000.0,1.1,144,male,non-Smoker,survived,2,0
+70,not anaemic,66,diabetic,45,normal blood pressure,249000.0,0.8,136,male,smoker,survived,2,0
+60,not anaemic,897,diabetic,45,normal blood pressure,297000.0,1.0,133,male,non-Smoker,survived,1,0
+42,not anaemic,582,not diabetic,60,normal blood pressure,263358.03,1.18,137,female,non-Smoker,survived,0,0
+60,anaemic,154,not diabetic,25,normal blood pressure,210000.0,1.7,135,male,non-Smoker,died,1,0
+58,not anaemic,144,diabetic,38,high blood pressure,327000.0,0.7,142,female,non-Smoker,survived,2,1
+58,anaemic,133,not diabetic,60,high blood pressure,219000.0,1.0,141,male,non-Smoker,survived,2,0
+63,anaemic,514,diabetic,25,high blood pressure,254000.0,1.3,134,male,non-Smoker,survived,3,1
+70,anaemic,59,not diabetic,60,normal blood pressure,255000.0,1.1,136,female,non-Smoker,survived,1,0
+60,anaemic,156,diabetic,25,high blood pressure,318000.0,1.2,137,female,non-Smoker,survived,3,1
+63,anaemic,61,diabetic,40,normal blood pressure,221000.0,1.1,140,female,non-Smoker,survived,2,0
+65,anaemic,305,not diabetic,25,normal blood pressure,298000.0,1.1,141,male,non-Smoker,survived,1,0
+75,not anaemic,582,not diabetic,45,high blood pressure,263358.03,1.18,137,male,non-Smoker,survived,1,0
+80,not anaemic,898,not diabetic,25,normal blood pressure,149000.0,1.1,144,male,smoker,survived,1,0
+42,not anaemic,5209,not diabetic,30,normal blood pressure,226000.0,1.0,140,male,smoker,survived,1,0
+60,not anaemic,53,not diabetic,50,high blood pressure,286000.0,2.3,143,female,non-Smoker,survived,1,0
+72,anaemic,328,not diabetic,30,high blood pressure,621000.0,1.7,138,female,smoker,died,3,0
+55,not anaemic,748,not diabetic,45,normal blood pressure,263000.0,1.3,137,male,non-Smoker,survived,0,0
+45,anaemic,1876,diabetic,35,normal blood pressure,226000.0,0.9,138,male,non-Smoker,survived,2,0
+63,not anaemic,936,not diabetic,38,normal blood pressure,304000.0,1.1,133,male,smoker,survived,1,0
+45,not anaemic,292,diabetic,35,normal blood pressure,850000.0,1.3,142,male,smoker,survived,2,0
+85,not anaemic,129,not diabetic,60,normal blood pressure,306000.0,1.2,132,male,smoker,died,1,0
+55,not anaemic,60,not diabetic,35,normal blood pressure,228000.0,1.2,135,male,smoker,survived,1,0
+50,not anaemic,369,diabetic,25,normal blood pressure,252000.0,1.6,136,male,non-Smoker,survived,1,0
+70,anaemic,143,not diabetic,60,normal blood pressure,351000.0,1.3,137,female,non-Smoker,died,1,0
+60,anaemic,754,diabetic,40,high blood pressure,328000.0,1.2,126,male,non-Smoker,survived,3,1
+58,anaemic,400,not diabetic,40,normal blood pressure,164000.0,1.0,139,female,non-Smoker,survived,1,0
+60,anaemic,96,diabetic,60,high blood pressure,271000.0,0.7,136,female,non-Smoker,survived,3,1
+85,anaemic,102,not diabetic,60,normal blood pressure,507000.0,3.2,138,female,non-Smoker,survived,1,0
+65,anaemic,113,diabetic,60,high blood pressure,203000.0,0.9,140,female,non-Smoker,survived,3,1
+86,not anaemic,582,not diabetic,38,normal blood pressure,263358.03,1.83,134,female,non-Smoker,died,0,0
+60,anaemic,737,not diabetic,60,high blood pressure,210000.0,1.5,135,male,smoker,survived,3,0
+66,anaemic,68,diabetic,38,high blood pressure,162000.0,1.0,136,female,non-Smoker,survived,3,1
+60,not anaemic,96,diabetic,38,normal blood pressure,228000.0,0.75,140,female,non-Smoker,survived,1,0
+60,anaemic,582,not diabetic,30,high blood pressure,127000.0,0.9,145,female,non-Smoker,survived,2,0
+60,not anaemic,582,not diabetic,40,normal blood pressure,217000.0,3.7,134,male,non-Smoker,died,0,0
+43,anaemic,358,not diabetic,50,normal blood pressure,237000.0,1.3,135,female,non-Smoker,survived,1,0
+46,not anaemic,168,diabetic,17,high blood pressure,271000.0,2.1,124,female,non-Smoker,died,2,1
+58,anaemic,200,diabetic,60,normal blood pressure,300000.0,0.8,137,female,non-Smoker,survived,2,0
+61,not anaemic,248,not diabetic,30,high blood pressure,267000.0,0.7,136,male,smoker,survived,2,0
+53,anaemic,270,diabetic,35,normal blood pressure,227000.0,3.4,145,male,non-Smoker,survived,2,0
+53,anaemic,1808,not diabetic,60,high blood pressure,249000.0,0.7,138,male,smoker,survived,3,0
+60,anaemic,1082,diabetic,45,normal blood pressure,250000.0,6.1,131,male,non-Smoker,survived,2,0
+46,not anaemic,719,not diabetic,40,high blood pressure,263358.03,1.18,137,female,non-Smoker,survived,1,0
+63,not anaemic,193,not diabetic,60,high blood pressure,295000.0,1.3,145,male,smoker,survived,2,0
+81,not anaemic,4540,not diabetic,35,normal blood pressure,231000.0,1.18,137,male,smoker,survived,1,0
+75,not anaemic,582,not diabetic,40,normal blood pressure,263358.03,1.18,137,male,non-Smoker,survived,0,0
+65,anaemic,59,diabetic,60,normal blood pressure,172000.0,0.9,137,female,non-Smoker,survived,2,0
+68,anaemic,646,not diabetic,25,normal blood pressure,305000.0,2.1,130,male,non-Smoker,survived,1,0
+62,not anaemic,281,diabetic,35,normal blood pressure,221000.0,1.0,136,female,non-Smoker,survived,1,0
+50,not anaemic,1548,not diabetic,30,high blood pressure,211000.0,0.8,138,male,non-Smoker,survived,1,0
+80,not anaemic,805,not diabetic,38,normal blood pressure,263358.03,1.1,134,male,non-Smoker,died,0,0
+46,anaemic,291,not diabetic,35,normal blood pressure,348000.0,0.9,140,female,non-Smoker,survived,1,0
+50,not anaemic,482,diabetic,30,normal blood pressure,329000.0,0.9,132,female,non-Smoker,survived,1,0
+61,anaemic,84,not diabetic,40,high blood pressure,229000.0,0.9,141,female,non-Smoker,survived,2,0
+72,anaemic,943,not diabetic,25,high blood pressure,338000.0,1.7,139,male,smoker,died,3,0
+50,not anaemic,185,not diabetic,30,normal blood pressure,266000.0,0.7,141,male,smoker,survived,1,0
+52,not anaemic,132,not diabetic,30,normal blood pressure,218000.0,0.7,136,male,smoker,survived,1,0
+64,not anaemic,1610,not diabetic,60,normal blood pressure,242000.0,1.0,137,male,non-Smoker,survived,0,0
+75,anaemic,582,not diabetic,30,normal blood pressure,225000.0,1.83,134,male,non-Smoker,died,1,0
+60,not anaemic,2261,not diabetic,35,high blood pressure,228000.0,0.9,136,male,non-Smoker,survived,1,0
+72,not anaemic,233,not diabetic,45,high blood pressure,235000.0,2.5,135,female,non-Smoker,died,1,0
+62,not anaemic,30,diabetic,60,high blood pressure,244000.0,0.9,139,male,non-Smoker,survived,2,1
+50,not anaemic,115,not diabetic,45,high blood pressure,184000.0,0.9,134,male,smoker,survived,2,0
+50,not anaemic,1846,diabetic,35,normal blood pressure,263358.03,1.18,137,male,smoker,survived,2,0
+65,anaemic,335,not diabetic,35,high blood pressure,235000.0,0.8,136,female,non-Smoker,survived,2,0
+60,anaemic,231,diabetic,25,normal blood pressure,194000.0,1.7,140,male,non-Smoker,survived,2,0
+52,anaemic,58,not diabetic,35,normal blood pressure,277000.0,1.4,136,female,non-Smoker,survived,1,0
+50,not anaemic,250,not diabetic,25,normal blood pressure,262000.0,1.0,136,male,smoker,survived,1,0
+85,anaemic,910,not diabetic,50,normal blood pressure,235000.0,1.3,134,male,non-Smoker,survived,1,0
+59,anaemic,129,not diabetic,45,high blood pressure,362000.0,1.1,139,male,smoker,survived,3,0
+66,anaemic,72,not diabetic,40,high blood pressure,242000.0,1.2,134,male,non-Smoker,survived,2,0
+45,anaemic,130,not diabetic,35,normal blood pressure,174000.0,0.8,139,male,smoker,survived,2,0
+63,anaemic,582,not diabetic,40,normal blood pressure,448000.0,0.9,137,male,smoker,survived,2,0
+50,anaemic,2334,diabetic,35,normal blood pressure,75000.0,0.9,142,female,non-Smoker,died,2,0
+45,not anaemic,2442,diabetic,30,normal blood pressure,334000.0,1.1,139,male,non-Smoker,died,1,0
+80,not anaemic,776,diabetic,38,high blood pressure,192000.0,1.3,135,female,non-Smoker,died,2,1
+53,not anaemic,196,not diabetic,60,normal blood pressure,220000.0,0.7,133,male,smoker,survived,1,0
+59,not anaemic,66,diabetic,20,normal blood pressure,70000.0,2.4,134,male,non-Smoker,died,1,0
+65,not anaemic,582,diabetic,40,normal blood pressure,270000.0,1.0,138,female,non-Smoker,survived,1,0
+70,not anaemic,835,not diabetic,35,high blood pressure,305000.0,0.8,133,female,non-Smoker,survived,1,0
+51,anaemic,582,diabetic,35,normal blood pressure,263358.03,1.5,136,male,smoker,survived,3,0
+52,not anaemic,3966,not diabetic,40,normal blood pressure,325000.0,0.9,140,male,smoker,survived,1,0
+70,anaemic,171,not diabetic,60,high blood pressure,176000.0,1.1,145,male,smoker,survived,3,0
+50,anaemic,115,not diabetic,20,normal blood pressure,189000.0,0.8,139,male,non-Smoker,survived,1,0
+65,not anaemic,198,diabetic,35,high blood pressure,281000.0,0.9,137,male,smoker,survived,3,1
+60,anaemic,95,not diabetic,60,normal blood pressure,337000.0,1.0,138,male,smoker,survived,2,0
+69,not anaemic,1419,not diabetic,40,normal blood pressure,105000.0,1.0,135,male,smoker,survived,1,0
+49,anaemic,69,not diabetic,50,normal blood pressure,132000.0,1.0,140,female,non-Smoker,survived,1,0
+63,anaemic,122,diabetic,60,normal blood pressure,267000.0,1.2,145,male,non-Smoker,survived,2,0
+55,not anaemic,835,not diabetic,40,normal blood pressure,279000.0,0.7,140,male,smoker,survived,1,0
+40,not anaemic,478,diabetic,30,normal blood pressure,303000.0,0.9,136,male,non-Smoker,survived,1,0
+59,anaemic,176,diabetic,25,normal blood pressure,221000.0,1.0,136,male,smoker,died,3,0
+65,not anaemic,395,diabetic,25,normal blood pressure,265000.0,1.2,136,male,smoker,died,2,0
+75,not anaemic,99,not diabetic,38,high blood pressure,224000.0,2.5,134,male,non-Smoker,died,1,0
+58,anaemic,145,not diabetic,25,normal blood pressure,219000.0,1.2,137,male,smoker,died,2,0
+60,anaemic,104,diabetic,30,normal blood pressure,389000.0,1.5,136,male,non-Smoker,died,2,0
+50,not anaemic,582,not diabetic,50,normal blood pressure,153000.0,0.6,134,female,non-Smoker,died,0,0
+60,not anaemic,1896,diabetic,25,normal blood pressure,365000.0,2.1,144,female,non-Smoker,died,1,0
+60,anaemic,151,diabetic,40,high blood pressure,201000.0,1.0,136,female,non-Smoker,survived,3,1
+40,not anaemic,244,not diabetic,45,high blood pressure,275000.0,0.9,140,female,non-Smoker,survived,1,0
+80,not anaemic,582,diabetic,35,normal blood pressure,350000.0,2.1,134,male,non-Smoker,survived,1,0
+64,anaemic,62,not diabetic,60,normal blood pressure,309000.0,1.5,135,female,non-Smoker,survived,1,0
+50,anaemic,121,diabetic,40,normal blood pressure,260000.0,0.7,130,male,non-Smoker,survived,2,0
+73,anaemic,231,diabetic,30,normal blood pressure,160000.0,1.18,142,male,smoker,survived,3,0
+45,not anaemic,582,not diabetic,20,high blood pressure,126000.0,1.6,135,male,non-Smoker,died,1,0
+77,anaemic,418,not diabetic,45,normal blood pressure,223000.0,1.8,145,male,non-Smoker,died,1,0
+45,not anaemic,582,diabetic,38,high blood pressure,263358.03,1.18,137,female,non-Smoker,survived,2,1
+65,not anaemic,167,not diabetic,30,normal blood pressure,259000.0,0.8,138,female,non-Smoker,survived,0,0
+50,anaemic,582,diabetic,20,high blood pressure,279000.0,1.0,134,female,non-Smoker,survived,3,1
+60,not anaemic,1211,diabetic,35,normal blood pressure,263358.03,1.8,113,male,smoker,survived,2,0
+63,anaemic,1767,not diabetic,45,normal blood pressure,73000.0,0.7,137,male,non-Smoker,survived,1,0
+45,not anaemic,308,diabetic,60,high blood pressure,377000.0,1.0,136,male,non-Smoker,survived,2,1
+70,not anaemic,97,not diabetic,60,high blood pressure,220000.0,0.9,138,male,non-Smoker,survived,1,0
+60,not anaemic,59,not diabetic,25,high blood pressure,212000.0,3.5,136,male,smoker,survived,2,0
+78,anaemic,64,not diabetic,40,normal blood pressure,277000.0,0.7,137,male,smoker,survived,2,0
+50,anaemic,167,diabetic,45,normal blood pressure,362000.0,1.0,136,female,non-Smoker,survived,2,0
+40,anaemic,101,not diabetic,40,normal blood pressure,226000.0,0.8,141,female,non-Smoker,survived,1,0
+85,not anaemic,212,not diabetic,38,normal blood pressure,186000.0,0.9,136,male,non-Smoker,survived,0,0
+60,anaemic,2281,diabetic,40,normal blood pressure,283000.0,1.0,141,female,non-Smoker,survived,2,0
+49,not anaemic,972,diabetic,35,high blood pressure,268000.0,0.8,130,female,non-Smoker,survived,2,1
+70,not anaemic,212,diabetic,17,high blood pressure,389000.0,1.0,136,male,smoker,survived,3,1
+50,not anaemic,582,not diabetic,62,high blood pressure,147000.0,0.8,140,male,smoker,survived,2,0
+78,not anaemic,224,not diabetic,50,normal blood pressure,481000.0,1.4,138,male,smoker,survived,1,0
+48,anaemic,131,diabetic,30,high blood pressure,244000.0,1.6,130,female,non-Smoker,died,3,1
+65,anaemic,135,not diabetic,35,high blood pressure,290000.0,0.8,134,male,non-Smoker,survived,2,0
+73,not anaemic,582,not diabetic,35,high blood pressure,203000.0,1.3,134,male,non-Smoker,survived,1,0
+70,not anaemic,1202,not diabetic,50,high blood pressure,358000.0,0.9,141,female,non-Smoker,survived,1,0
+54,anaemic,427,not diabetic,70,high blood pressure,151000.0,9.0,137,female,non-Smoker,died,2,0
+68,anaemic,1021,diabetic,35,normal blood pressure,271000.0,1.1,134,male,non-Smoker,survived,2,0
+55,not anaemic,582,diabetic,35,high blood pressure,371000.0,0.7,140,female,non-Smoker,survived,2,1
+73,not anaemic,582,not diabetic,20,normal blood pressure,263358.03,1.83,134,male,non-Smoker,died,0,0
+65,not anaemic,118,not diabetic,50,normal blood pressure,194000.0,1.1,145,male,smoker,survived,1,0
+42,anaemic,86,not diabetic,35,normal blood pressure,365000.0,1.1,139,male,smoker,survived,2,0
+47,not anaemic,582,not diabetic,25,normal blood pressure,130000.0,0.8,134,male,non-Smoker,survived,0,0
+58,not anaemic,582,diabetic,25,normal blood pressure,504000.0,1.0,138,male,non-Smoker,survived,1,0
+75,not anaemic,675,diabetic,60,normal blood pressure,265000.0,1.4,125,female,non-Smoker,survived,1,0
+58,anaemic,57,not diabetic,25,normal blood pressure,189000.0,1.3,132,male,smoker,survived,2,0
+55,anaemic,2794,not diabetic,35,high blood pressure,141000.0,1.0,140,male,non-Smoker,survived,2,0
+65,not anaemic,56,not diabetic,25,normal blood pressure,237000.0,5.0,130,female,non-Smoker,survived,0,0
+72,not anaemic,211,not diabetic,25,normal blood pressure,274000.0,1.2,134,female,non-Smoker,survived,0,0
+60,not anaemic,166,not diabetic,30,normal blood pressure,62000.0,1.7,127,female,non-Smoker,died,0,0
+70,not anaemic,93,not diabetic,35,normal blood pressure,185000.0,1.1,134,male,smoker,survived,1,0
+40,anaemic,129,not diabetic,35,normal blood pressure,255000.0,0.9,137,male,non-Smoker,survived,1,0
+53,anaemic,707,not diabetic,38,normal blood pressure,330000.0,1.4,137,male,smoker,survived,2,0
+53,anaemic,582,not diabetic,45,normal blood pressure,305000.0,1.1,137,male,smoker,survived,2,0
+77,anaemic,109,not diabetic,50,high blood pressure,406000.0,1.1,137,male,non-Smoker,survived,2,0
+75,not anaemic,119,not diabetic,50,high blood pressure,248000.0,1.1,148,male,non-Smoker,survived,1,0
+70,not anaemic,232,not diabetic,30,normal blood pressure,173000.0,1.2,132,male,non-Smoker,survived,0,0
+65,anaemic,720,diabetic,40,normal blood pressure,257000.0,1.0,136,female,non-Smoker,survived,2,0
+55,anaemic,180,not diabetic,45,normal blood pressure,263358.03,1.18,137,male,smoker,survived,2,0
+70,not anaemic,81,diabetic,35,high blood pressure,533000.0,1.3,139,female,non-Smoker,survived,2,1
+65,not anaemic,582,diabetic,30,normal blood pressure,249000.0,1.3,136,male,smoker,survived,2,0
+40,not anaemic,90,not diabetic,35,normal blood pressure,255000.0,1.1,136,male,smoker,survived,1,0
+73,anaemic,1185,not diabetic,40,high blood pressure,220000.0,0.9,141,female,non-Smoker,survived,2,0
+54,not anaemic,582,diabetic,38,normal blood pressure,264000.0,1.8,134,male,non-Smoker,survived,1,0
+61,anaemic,80,diabetic,38,normal blood pressure,282000.0,1.4,137,male,non-Smoker,survived,2,0
+55,not anaemic,2017,not diabetic,25,normal blood pressure,314000.0,1.1,138,male,non-Smoker,died,0,0
+64,not anaemic,143,not diabetic,25,normal blood pressure,246000.0,2.4,135,male,non-Smoker,survived,0,0
+40,not anaemic,624,not diabetic,35,normal blood pressure,301000.0,1.0,142,male,smoker,survived,1,0
+53,not anaemic,207,diabetic,40,normal blood pressure,223000.0,1.2,130,female,non-Smoker,survived,1,0
+50,not anaemic,2522,not diabetic,30,high blood pressure,404000.0,0.5,139,female,non-Smoker,survived,1,0
+55,not anaemic,572,diabetic,35,normal blood pressure,231000.0,0.8,143,female,non-Smoker,survived,1,0
+50,not anaemic,245,not diabetic,45,high blood pressure,274000.0,1.0,133,male,non-Smoker,survived,1,0
+70,not anaemic,88,diabetic,35,high blood pressure,236000.0,1.2,132,female,non-Smoker,survived,2,1
+53,anaemic,446,not diabetic,60,high blood pressure,263358.03,1.0,139,male,non-Smoker,survived,2,0
+52,anaemic,191,diabetic,30,high blood pressure,334000.0,1.0,142,male,smoker,survived,4,1
+65,not anaemic,326,not diabetic,38,normal blood pressure,294000.0,1.7,139,female,non-Smoker,survived,0,0
+58,not anaemic,132,diabetic,38,high blood pressure,253000.0,1.0,139,male,non-Smoker,survived,2,1
+45,anaemic,66,diabetic,25,normal blood pressure,233000.0,0.8,135,male,non-Smoker,survived,2,0
+53,not anaemic,56,not diabetic,50,normal blood pressure,308000.0,0.7,135,male,smoker,survived,1,0
+55,not anaemic,66,not diabetic,40,normal blood pressure,203000.0,1.0,138,male,non-Smoker,survived,0,0
+62,anaemic,655,not diabetic,40,normal blood pressure,283000.0,0.7,133,female,non-Smoker,survived,1,0
+65,anaemic,258,diabetic,25,normal blood pressure,198000.0,1.4,129,male,non-Smoker,died,2,0
+68,anaemic,157,diabetic,60,normal blood pressure,208000.0,1.0,140,female,non-Smoker,survived,2,0
+61,not anaemic,582,diabetic,38,normal blood pressure,147000.0,1.2,141,male,non-Smoker,survived,1,0
+50,anaemic,298,not diabetic,35,normal blood pressure,362000.0,0.9,140,male,smoker,survived,2,0
+55,not anaemic,1199,not diabetic,20,normal blood pressure,263358.03,1.83,134,male,smoker,died,1,0
+56,anaemic,135,diabetic,38,normal blood pressure,133000.0,1.7,140,male,non-Smoker,survived,2,0
+45,not anaemic,582,diabetic,38,normal blood pressure,302000.0,0.9,140,female,non-Smoker,survived,1,0
+40,not anaemic,582,diabetic,35,normal blood pressure,222000.0,1.0,132,male,non-Smoker,survived,1,0
+44,not anaemic,582,diabetic,30,high blood pressure,263358.03,1.6,130,male,smoker,survived,3,1
+51,not anaemic,582,diabetic,40,normal blood pressure,221000.0,0.9,134,female,non-Smoker,survived,1,0
+67,not anaemic,213,not diabetic,38,normal blood pressure,215000.0,1.2,133,female,non-Smoker,survived,0,0
+42,not anaemic,64,not diabetic,40,normal blood pressure,189000.0,0.7,140,male,non-Smoker,survived,0,0
+60,anaemic,257,diabetic,30,normal blood pressure,150000.0,1.0,137,male,smoker,survived,3,0
+45,not anaemic,582,not diabetic,38,high blood pressure,422000.0,0.8,137,female,non-Smoker,survived,1,0
+70,not anaemic,618,not diabetic,35,normal blood pressure,327000.0,1.1,142,female,non-Smoker,survived,0,0
+70,not anaemic,582,diabetic,38,normal blood pressure,25100.0,1.1,140,male,non-Smoker,survived,1,0
+50,anaemic,1051,diabetic,30,normal blood pressure,232000.0,0.7,136,female,non-Smoker,survived,2,0
+55,not anaemic,84,diabetic,38,normal blood pressure,451000.0,1.3,136,female,non-Smoker,survived,1,0
+70,not anaemic,2695,diabetic,40,normal blood pressure,241000.0,1.0,137,male,non-Smoker,survived,1,0
+70,not anaemic,582,not diabetic,40,normal blood pressure,51000.0,2.7,136,male,smoker,survived,1,0
+42,not anaemic,64,not diabetic,30,normal blood pressure,215000.0,3.8,128,male,smoker,survived,1,0
+65,not anaemic,1688,not diabetic,38,normal blood pressure,263358.03,1.1,138,male,smoker,survived,1,0
+50,anaemic,54,not diabetic,40,normal blood pressure,279000.0,0.8,141,male,non-Smoker,survived,1,0
+55,anaemic,170,diabetic,40,normal blood pressure,336000.0,1.2,135,male,non-Smoker,survived,2,0
+60,not anaemic,253,not diabetic,35,normal blood pressure,279000.0,1.7,140,male,non-Smoker,survived,0,0
+45,not anaemic,582,diabetic,55,normal blood pressure,543000.0,1.0,132,female,non-Smoker,survived,1,0
+65,not anaemic,892,diabetic,35,normal blood pressure,263358.03,1.1,142,female,non-Smoker,survived,1,0
+90,anaemic,337,not diabetic,38,normal blood pressure,390000.0,0.9,144,female,non-Smoker,survived,1,0
+45,not anaemic,615,diabetic,55,normal blood pressure,222000.0,0.8,141,female,non-Smoker,survived,1,0
+60,not anaemic,320,not diabetic,35,normal blood pressure,133000.0,1.4,139,male,non-Smoker,survived,0,0
+52,not anaemic,190,diabetic,38,normal blood pressure,382000.0,1.0,140,male,smoker,survived,2,0
+63,anaemic,103,diabetic,35,normal blood pressure,179000.0,0.9,136,male,smoker,survived,3,0
+62,not anaemic,61,diabetic,38,high blood pressure,155000.0,1.1,143,male,smoker,survived,3,1
+55,not anaemic,1820,not diabetic,38,normal blood pressure,270000.0,1.2,139,female,non-Smoker,survived,0,0
+45,not anaemic,2060,diabetic,60,normal blood pressure,742000.0,0.8,138,female,non-Smoker,survived,1,0
+45,not anaemic,2413,not diabetic,38,normal blood pressure,140000.0,1.4,140,male,smoker,survived,1,0
+50,not anaemic,196,not diabetic,45,normal blood pressure,395000.0,1.6,136,male,smoker,survived,1,0
