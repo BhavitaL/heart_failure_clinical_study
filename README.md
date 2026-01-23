@@ -139,6 +139,8 @@ Dashboarding in Tableau: Link to the dashboard [Heart failure | Tableau Public](
 
 The dashboard aims to provide more insight into the numbers of additional illnesses the patients had during the study. The numbers were expected as the average age of a patient was 60 and most patients had anaemia or diabetes. The Dashboard looked more into the functioning of the hear (like the notebook) and looked to uncover more trends about which patient died or survived. You can use the interactive filters on the left hand side to go into greater detail of your analysis.
 
+Project Board: https://trello.com/b/mWRExs2s/heart-failure-clinical-study
+
 ## **10\. Ethics**
 
 Ethical use of patient data requires protecting privacy, ensuring informed consent, minimising harm, addressing bias, and complying with data protection regulations such as GDPR. Transparency, security, and responsible interpretation are essential to maintain public trust and ensure ethical research outcomes.
