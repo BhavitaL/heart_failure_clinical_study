@@ -1,20 +1,19 @@
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-**Heart failure study**
+# **Heart failure study**
 
-**Table of contents**
 
-**1.Project overview and Motivation**
+## **1.Project overview and Motivation**
 
 Heart failure is a condition where your heart cannot pump blood around your body as well as it should, which means the body's oxygen supply is constricted. It impacts the way a body works including breathing and muscles. There are many causes to heart failure, where it can happen suddenly or progress slowly over months or years. It is the number 1 cause of death globally, taking an estimated 17.9 million lives each year. (c. 31% of deaths worldwide) This study will look at some of the key reasons for heart failure and identify which illness or test is the most contributing factor. (source: <https://www.bhf.org.uk/informationsupport/conditions/heart-failure>)
 
 With an undeniable constraint in healthcare globally, I have a strong desire to be involved in being part of the solution to alleviate these challenges and improve patient health through technology. Drawing from my own medical experiences I have had to wait over 6 to 7 months to receive sufficient tests or treatment from public health care. Throughout my studies, I have noticed data gaps in end-to-end visibility of the patient journey, that causes poor operational planning and reduce operational efficiency. By early identification of a patient's illness and therefore fatality we can provide earlier treatment plans to improve recovery time, reducing the constraint on healthcare and staff.
 
-**2\. Dataset & Source**
+## **2\. Dataset & Source**
 
 This project utilises the [Heart Failure Clinical Records Study dataset](https://www.kaggle.com/datasets/guriya79/heart-failure-prediction-dataset). It contains 299 patient records with 10 potential contributing illnesses, including age and sex.
 
-**3\. Objectives and Key research questions**
+## **3\. Objectives and Key research questions**
 
 \- Understand which features in this dataset contribute the most to a patient's mortality in hear failure.
 
@@ -46,7 +45,7 @@ This project utilises the [Heart Failure Clinical Records Study dataset](https:/
 
 &nbsp;   H2: Ejection fraction and serum creatinine play an important part in determining a patient's death
 
-**4\. GitHub project file and repository structure**
+## **4\. GitHub project file and repository structure**
 
 ┣ 📂data_set
 
@@ -74,7 +73,7 @@ This project utilises the [Heart Failure Clinical Records Study dataset](https:/
 
 ┗ 📜setup.sh
 
-**5\. Tools and Technologies used**
+## **5\. Tools and Technologies used**
 
 Python 3.12
 
@@ -98,18 +97,18 @@ VS Code
 
 AI tools: ChatGPT, Co pilot and Gemini
 
-**6\. Target Audience**
+## **6\. Target Audience**
 
 The dashboard and notebook are intended for:
 
 - **Hospital staff-** to determine the likelihood of a patient's mortality so that early and more effective treatment can be provided to those who need it.
 - **Patients at risk-** Early planning and effective lifestyle choices in place to reduce the risk of mortality.
 
-**7\. User story**
+## **7\. User story**
 
 As a data analyst student, I want to build a predictive machine learning model for patients with common illness or characteristics that lead to heart failure so that it can be used as a real-life practical example for hospitals and health care globally. I would like to think this model could potentially be the stepping stone to save a lot of lives .
 
-**8\. Data Transformation summary**
+## **8\. Data Transformation summary**
 
 | Original Column | Transformation Applied | Feature engineering/ New column created | Purpose/Notes |
 | --- | --- | --- | --- |
@@ -127,7 +126,7 @@ As a data analyst student, I want to build a predictive machine learning model f
 | time | column dropped | \-  | Not useful for the analysis because the context of it was arbitrary |
 | DEATH_EVENT | Renamed column title to remain consistent with other titles<br><br>Remains unchanged for notebook but changed to categorical values for dashboard | Column name changed to death_event<br><br>0-> survived<br><br>1-> died | More efficient working for tooltips and labels on pie chart |
 
-**9\. Expected deliverables**
+## **9\. Expected deliverables**
 
 **Jupyter notebook visualisation:** Seaborn and Matplot lib were chosen as visualisation tools. Since seaborn is built on top of Matplot lib provides good interface for creating attractive statistical graphs. While I used seaborn to plot most graphs in the notebook, to make it attractive and visually pleasing; I used mat plot lib to lot visuals that have more than one graph contained in it for simplicity and readability. I have not use plotly for this project as in order to view the graph it needs to be opened on a webpage and I would rather have all the graphs show up in one notebook.
 
@@ -140,7 +139,7 @@ Dashboarding in Tableau: Link to the dashboard [Heart failure | Tableau Public](
 
 The dashboard aims to provide more insight into the numbers of additional illnesses the patients had during the study. The numbers were expected as the average age of a patient was 60 and most patients had anaemia or diabetes. The Dashboard looked more into the functioning of the hear (like the notebook) and looked to uncover more trends about which patient died or survived. You can use the interactive filters on the left hand side to go into greater detail of your analysis.
 
-**10\. Ethics**
+## **10\. Ethics**
 
 Ethical use of patient data requires protecting privacy, ensuring informed consent, minimising harm, addressing bias, and complying with data protection regulations such as GDPR. Transparency, security, and responsible interpretation are essential to maintain public trust and ensure ethical research outcomes.
 
@@ -148,7 +147,7 @@ As I have no insight in how data was collected, I assume Patient's privacy and c
 
 Other considerations in real life applications of the project: The machine learning model is likely to make some errors and unnecessarily panic the hospital staff or patient and use up valuable time and resources. Alternatively, it could make an error of a patient being severely unwell, but getting it wrong where the fate of the patient could end in mortality, when it could be prevented. While the ML model can be beneficial it is always a good idea for a doctor to check results and be available for real world advise as it can provide a human element of comfort and care.
 
-**12\. How to run this project locally**
+## **12\. How to run this project locally**
 
 **Clone the Repository**
 
@@ -164,7 +163,7 @@ pip install -r requirements.txt
 
 Open heart_failure_clinical_study.ipynb and run all cells sequentially. The notebook will automatically download the data, run the ETL pipeline, and generate all seaborn/matplotlib visualizations.
 
-**11\. Key findings and next steps**
+## **11\. Key findings and next steps**
 
 - Hypothesis 1: while age showed the greatest correlation to death event, upon deeper analysis the impact of age on males seemed to be more significant
 - Hypothesis 2: There was sufficient evidence that if serum creatinine levels increased and ejection fraction was low there was a likelihood that the patient would have died
@@ -174,10 +173,10 @@ Open heart_failure_clinical_study.ipynb and run all cells sequentially. The note
 - Alternative machine learning models could be tried and tested to compare overall performance
 - Standardisation/ Normalisation of some highly skewed data features.
 
-**12\. Credits and Acknowledgments**
+## **12\. Credits and Acknowledgments**
 
 - AI agents such as Chat GPT, Co pilot and Google Gemini- used for debugging, fixing errors and research
-- John Anih, Code institute instructor and teaching for code workbook on Machine Learning Part 1 and Part 2
+- John Anih, Code institute instructor for code workbook on Machine Learning Part 1 and Part 2
 - Stack Overflow- Graph visualisation code
 - YouTube tutorial videos by Penguin Analytics and Mo Chen for basic guides on tableau
 - Code Institute teaching materials from the 'Data Analytics with AI Bootcamp 2025'-Newham cohort course were used.
