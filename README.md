@@ -176,7 +176,7 @@ Open heart_failure_clinical_study.ipynb and run all cells sequentially. The note
 ## **12\. Credits and Acknowledgments**
 
 - AI agents such as Chat GPT, Co pilot and Google Gemini- used for debugging, fixing errors and research
-- John Anih, Code institute instructor and teaching for code workbook on Machine Learning Part 1 and Part 2
+- John Anih, Code institute instructor for code workbook on Machine Learning Part 1 and Part 2
 - Stack Overflow- Graph visualisation code
 - YouTube tutorial videos by Penguin Analytics and Mo Chen for basic guides on tableau
 - Code Institute teaching materials from the 'Data Analytics with AI Bootcamp 2025'-Newham cohort course were used.
