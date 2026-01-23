@@ -1,8 +1,7 @@
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-**Heart failure study**
+## **Heart failure study**
 
-**Table of contents**
 
 **1.Project overview and Motivation**
 
